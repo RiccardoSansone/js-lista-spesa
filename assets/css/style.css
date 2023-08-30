@@ -3,3 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    width: 60%;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 5rem;
+}
+.text-center{
+    text-align: center;
+}
+.d-flex{
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+}
+#foglio{
+    margin: 2rem 20rem ;
+}
